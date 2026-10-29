@@ -1,0 +1,54 @@
+# 全球新闻聚合 - 数据源配置
+# 使用 Google News RSS(中文),针对各区域抓取,稳定且免费
+# 可在每一组内自由增删新闻源
+
+regions:
+  中国:
+    - name: 中国综合
+      url: "https://news.google.com/rss/search?q=%E4%B8%AD%E5%9B%BD&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+    - name: 中国财经
+      url: "https://news.google.com/rss/search?q=%E4%B8%AD%E5%9B%BD+%E8%B4%A2%E7%BB%8F&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+
+  欧美:
+    - name: 美国
+      url: "https://news.google.com/rss/search?q=America&hl=zh-CN&gl=US&ceid=US:zh-Hans"
+    - name: 欧洲
+      url: "https://news.google.com/rss/search?q=Europe&hl=zh-CN&gl=US&ceid=US:zh-Hans"
+    - name: 英国
+      url: "https://news.google.com/rss/search?q=UK&hl=zh-CN&gl=GB&ceid=GB:zh-Hans"
+    - name: BBC 世界
+      url: "https://feeds.bbci.co.uk/news/world/rss.xml"
+
+  俄罗斯:
+    - name: 俄罗斯
+      url: "https://news.google.com/rss/search?q=%E4%BF%84%E7%BD%97%E6%96%AF&hl=zh-CN&gl=US&ceid=US:zh-Hans"
+    - name: 俄罗斯英文
+      url: "https://news.google.com/rss/search?q=Russia&hl=zh-CN&gl=US&ceid=US:zh-Hans"
+
+  日韩:
+    - name: 日本
+      url: "https://news.google.com/rss/search?q=%E6%97%A5%E6%9C%AC&hl=zh-CN&gl=JP&ceid=JP:zh-Hans"
+    - name: 韩国
+      url: "https://news.google.com/rss/search?q=%E9%9F%A9%E5%9B%BD&hl=zh-CN&gl=KR&ceid=KR:zh-Hans"
+    - name: 日韩科技
+      url: "https://news.google.com/rss/search?q=Japan+Korea+tech&hl=zh-CN&gl=US&ceid=US:zh-Hans"
+
+# 产业新闻(独立于地域,覆盖重点行业)
+industries:
+  科技互联网:
+    - "https://news.google.com/rss/search?q=%E7%A7%91%E6%8A%80+AI&hl=zh-CN&gl=US&ceid=US:zh-Hans"
+  新能源与汽车:
+    - "https://news.google.com/rss/search?q=%E6%96%B0%E8%83%BD%E6%BA%90+%E7%94%B5%E5%8A%A8%E8%BD%A6&hl=zh-CN&gl=US&ceid=US:zh-Hans"
+  半导体与芯片:
+    - "https://news.google.com/rss/search?q=%E5%8D%8A%E5%AF%BC%E4%BD%93+%E8%8A%AF%E7%89%87&hl=zh-CN&gl=US&ceid=US:zh-Hans"
+  医药健康:
+    - "https://news.google.com/rss/search?q=%E5%8C%BB%E8%8D%AF+%E5%81%A5%E5%BA%B7&hl=zh-CN&gl=US&ceid=US:zh-Hans"
+  金融与市场:
+    - "https://news.google.com/rss/search?q=%E9%87%91%E8%9E%8D+%E8%82%A1%E5%B8%82&hl=zh-CN&gl=US&ceid=US:zh-Hans"
+  能源与大宗商品:
+    - "https://news.google.com/rss/search?q=%E8%83%BD%E6%BA%90+%E6%B2%B9%E4%BB%B7&hl=zh-CN&gl=US&ceid=US:zh-Hans"
+
+# 每源最多抓取条数
+max_items_per_source: 6
+# 输出文件名(在 docs 目录)
+output_file: "index.md"
