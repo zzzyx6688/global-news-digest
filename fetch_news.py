@@ -56,7 +56,7 @@ def normalize_entry(entry, max_items):
     return items
 
 
-def render(items):
+def render_md(items):
     """把 (区域/产业, 源名, 新闻列表) 渲染为 Markdown。"""
     now = datetime.now(CN_TZ)
     lines = []
@@ -78,6 +78,70 @@ def render(items):
     lines.append(f"---")
     lines.append(f"*本日报由自动化脚本每日定时生成,数据来源为公开新闻 RSS。*")
     return "\n".join(lines)
+
+
+def render_html(items):
+    """把新闻数据渲染为美观的 HTML 网页版日报。"""
+    now = datetime.now(CN_TZ)
+    sections = []
+    for group_key, sources in items:
+        cards = []
+        for src_name, news in sources:
+            items_html = ""
+            if news:
+                items_html = "<ul>" + "".join(
+                    f'<li><a href="{n["link"]}" target="_blank" rel="noopener">{n["title"]}</a></li>'
+                    for n in news
+                ) + "</ul>"
+            else:
+                items_html = '<p class="empty">该源本次未抓取到内容(可能为网络波动,下次自动重试)</p>'
+            cards.append(
+                f'<div class="src-card"><h3>{src_name}</h3>{items_html}</div>'
+            )
+        sections.append(
+            f'<section><h2>{group_key}</h2><div class="cards">{chr(10).join(cards)}</div></section>'
+        )
+
+    html = f"""<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>全球新闻中文日报 · {now.strftime('%Y-%m-%d')}</title>
+<style>
+  :root {{ --bg:#0f172a; --card:#1e293b; --text:#e2e8f0; --muted:#94a3b8; --accent:#38bdf8; }}
+  * {{ box-sizing:border-box; margin:0; padding:0; }}
+  body {{ background:var(--bg); color:var(--text); font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif; line-height:1.6; }}
+  .wrap {{ max-width:960px; margin:0 auto; padding:24px 16px 60px; }}
+  header {{ padding:20px 0 8px; border-bottom:2px solid var(--accent); margin-bottom:24px; }}
+  h1 {{ font-size:1.6rem; letter-spacing:1px; }}
+  .meta {{ color:var(--muted); font-size:.85rem; margin-top:6px; }}
+  section {{ margin-bottom:28px; }}
+  h2 {{ font-size:1.15rem; color:var(--accent); margin-bottom:12px; padding-left:10px; border-left:4px solid var(--accent); }}
+  .cards {{ display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:14px; }}
+  .src-card {{ background:var(--card); border-radius:10px; padding:14px 16px; }}
+  .src-card h3 {{ font-size:.95rem; color:#fbbf24; margin-bottom:10px; }}
+  ul {{ list-style:none; }}
+  li {{ padding:6px 0; border-bottom:1px dashed #334155; }}
+  li:last-child {{ border-bottom:none; }}
+  a {{ color:var(--text); text-decoration:none; font-size:.9rem; }}
+  a:hover {{ color:var(--accent); }}
+  .empty {{ color:var(--muted); font-size:.85rem; }}
+  footer {{ margin-top:36px; padding-top:16px; border-top:1px solid #334155; color:var(--muted); font-size:.8rem; text-align:center; }}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>🌍 全球新闻中文日报</h1>
+    <p class="meta">更新时间：{now.strftime('%Y-%m-%d %H:%M')}（北京时间）· 覆盖中国 / 欧美 / 俄罗斯 / 日韩 + 六大产业</p>
+  </header>
+  {chr(10).join(sections)}
+  <footer>本日报由自动化脚本每日定时生成，数据来源为公开新闻 RSS。· 自动更新</footer>
+</div>
+</body>
+</html>"""
+    return html
 
 
 def main():
@@ -107,12 +171,18 @@ def main():
             grouped.append((f"产业源{i+1}", news))
         result.append((ind, grouped))
 
-    md = render(result)
+    md = render_md(result)
+    html = render_html(result)
 
-    out_path = os.path.join(DOCS_DIR, output_file)
-    with open(out_path, "w", encoding="utf-8") as f:
+    md_path = os.path.join(DOCS_DIR, output_file)
+    with open(md_path, "w", encoding="utf-8") as f:
         f.write(md)
-    print(f"[ok] 已生成日报: {out_path} ({len(md)} 字符)")
+
+    html_path = os.path.join(DOCS_DIR, "index.html")
+    with open(html_path, "w", encoding="utf-8") as f:
+        f.write(html)
+    print(f"[ok] 已生成日报: {md_path} ({len(md)} 字符)")
+    print(f"[ok] 已生成网页: {html_path} ({len(html)} 字符)")
 
 
 if __name__ == "__main__":
