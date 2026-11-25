@@ -1,83 +1,178 @@
 # 全球新闻中文日报
 
-> 更新时间：2026-11-24 13:59 (北京时间) | 自动生成
+> 更新时间：2026-11-25 12:50 (北京时间) | 自动生成
 
 ## 中国
 
 ### 中国综合
 
+- [穷人交社保、富人交税：中国“盯上”所有人的钱包 - 纽约时报中文网](https://news.google.com/rss/articles/CBMickFVX3lxTE5uWUNmNXE5Q0RJQ3R6UEFOcmZOcWNpMnZRQUNzSXEzaVZGQ3c4bkV1VGxVMnFjZGVNWEdrVzR3N0ZjM1ZJN1lfcDFGTlZDVjRDZmMtZTlqY0xSclBpRkhXREJ4RWh6b2RXZG9weUo5SUdvQQ?oc=5)
+- [中国要给2.5亿巴基斯坦人，刷一个大火箭 - 凤凰网](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SSWctWG1GaG85alVLWGhIT1pJSVhmR1dieTFUMVJmMWpPVzVMeXBFX2N6ZzNfcUhrS3VrLUhJcXQ4cng3Qm9rYW50YWM?oc=5)
+- [中国空间站再“迎新” 新伙伴、新亮点、新实验值得期待 - 中国网新闻中心](https://news.google.com/rss/articles/CBMia0FVX3lxTE9NV0syNFljeDAzVGtUMnREVDQxREc3bVBMeEt2UUtRdWYwNGwyU2diV1NIdFRoaWFnYW5kX0U2LXR6M2hLQlZiaUNpRTc5OGVGYnFpQTFUcXR6T1BJNmhXXzB1WGtmdjM0cEdN?oc=5)
+- [神舟二十四号丨中国瞄准11月25日08时18分发射神舟二十四号载人飞船 - 新华网](https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0ZBdkRWdUYyckpWTTZwcnFIQmVCZFRWUm52Nl92QXZsWUY1NEpWaVhfWWR6cS04MElfU2hxemlST2Q4YmhTQzlaNVNQZjFFZmRjMzI2aHlKS21NemZuTzM4dUdCcjg3NUF3bXpSRmdZM0hpMXlZZ2g3TWJuYXJvb2ZZRQ?oc=5)
+- [众院两委员会调查报告对美企依赖中国AI模型发出警告 - 美国之音](https://news.google.com/rss/articles/CBMizgFBVV95cUxQMkJyT3NaSlJMaHFpU2NhNmxyeHlxRDdaa3dmVl9qdXRPRjFKa3dPbjh1OEFCLUpsaVM0Ml9LVVJtM2VYSHh6T1Z6ZTgwOU40MDlIalQwMWVqNnV5bWhfMkFvUHN6V08wMWNDejJaSEpzQ1BfYmtFTFdTV00ta3BRRE5mdEhhbE1GOUF4elBuN1piazFxTXFnTGpqNUVjV2k3WVlNM21Rd1Vlck1XQmUyZVB6eGphdXVYd2xXMDhndUFVTUxVczlnZXpWX05ZUdIB0AFBVV95cUxOTXpaaW5FM2dwSF95aXpUSVlISnloUklLY1JLd1ljS3k4OEl0M184Q0YxaWczb256R3ltWmVNS2VGc21KVTlYbDZBcFBlSnMwbXdwRTNhOXRuQ0pfVXR2UG5jZG9UUHJHWVFZVU8zeEZSSlBtbkc0QVFpd0U0R0dLQXlGS1pHMk1hQ0FjSGROWkZFRnE1M3FTQXE3ZE95RjhkX1c3NUg0V0c2MS1QeEpoNjE0OU5ER0paXzl3VDhwNUpkX1R1REJzaE5xbDdwTW5Y?oc=5)
+- [媒体：所罗门群岛不续签与中国的安全协议 - DW.com](https://news.google.com/rss/articles/CBMixAJBVV95cUxNcVZKVks4NExodU9pYVVZSnNSd1lWOFF3cks3N3ZTZjQ4amxIXzdfZW5IZnU1d1BETElyX3A0QjdjNlVmUGhya2RKTXg5ZGxWSndDRUpOSlJtUjBibjZpYUppQmg2OHpyT1puZ2NFdjZVaUc0cDFwWEpnczdCalNXRld3MGNTU0FsLTVPcjJiQjNtQmw1NUZRLWR3eUZBX0U3eXVNU2ZBNU4zd053TnBqMjRJd2JEay1NSnNXckJEc1NJQzJsYy1DSHVXSWdwMl9LQzlnZG1BTE5ySjd0RDIwc2VOaUpRZGVXSVVGTUwtblAxZ3M5RHpYQmZCRGs4X2REcVhGN0QtQW1weDJSblZjeDNmaFFwbGR6bUhUb1BVaEF0MlBiWmplZUdETk1RUUdiTlNhS1ZvSUt5Z0pYUFlObHpFSFHSAcQCQVVfeXFMUFFpMjlKanZwQ3VQc0ctZldncWxEVW5nWFpxeTVvcjRKVlprWE1obFlseWlLQ1BfSFAzNW5nOUtmTURISFp5b2FDaW1pNGFvZTJnNGR0bjlxbWx1Wi1TYmdaTFNTRFdSYmozLUFOb09GTndzeVc0VWhURHhpRUZCUFZxRU9kNTE3b2kwVEZNTzJ3a0gtSU9LQzl4WDRvT1FIZjBMaFRmVC1BZDhXcmpqQnpmVXZ5dHRmekpUWm9pSmFXNUE4d0ZpNm5mZHREcW4xa1A3azQ4Z3Z5LW9jWDBWc21rMFRqUFJTUVo1eDc3ZjlqeUpUWjY1NHlsaF91TktRVjg4Y0hRVFc2RlBjb0twNjB1MjBOcDBWQWNhVXVwcU1saWZiS2ZIT3hDdnVfZEs3VmhacEVBUjRlamt5YWw3Rm9ObTda?oc=5)
 
 ### 中国财经
 
+- [2026-11-23 中国财经60分 - 第一财经](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WRG9SVzZxZHl0OEJfZ0tEdVZWcUVUU0JkajFHcTUwdnhlZkNCMTk0SW5lR2tXdXhVbktBeUtud3BYT0dVaDhYU3hVYUZBcHVURENPVg?oc=5)
+- [深刻认识中国金融结构变迁 提升金融服务实体经济适配性 - 求是](https://news.google.com/rss/articles/CBMifEFVX3lxTE9oTkZUcnNicGFMTEpha3pfMXNQdEVpNFUzY3Utc0V2eVA0ZldxV21uWTE4M0NHY2M2eXpnb3FKVmZ5UHVfbzZfanJzakltZ0ZTUGwxSXlnN1RqV1RKc0hUSUNDR3ltd3B4THhuMktzNnVCb2xjWnFtMDVjRWk?oc=5)
+- [第36届中国新闻奖评选结果揭晓，南方财经《中国经济名场面》获一等奖 - 21财经](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVThrbVJObEotTGcwMUlfRWFOYnBMY2RsVFlqRXRaMlJJR1BSZ2E2VjBvQ0pJUWlYLUpaNUM2b0dteFpKdy12WXgyWXRaQlJ6cjZqZ2NCekFic1RjSktLa1JHWW50YU5heGpQaExkSHBkc1FyWmdTMjVJQVZTY0wzLUJvVVFVQ1NzWmpoWlFRdw?oc=5)
+- [财经慧说丨“铁公基”到“六张网” 中国基建升级ing - 新华网](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXA3NTUtTXg2OUtVX0xJaFA3c2pyVHBOVTBZazExay1XTklFY2xCYU83aUxoaFF4VnJELWtNdV9JZG9kUWtLeVNQdEM4cmZDNHNhOXQzTzlvMkRGTDYzbWtWTVZEdGsyZ0J3bzNBdzFYVVA2NTVNWEdLcFZ6MU94VjFn?oc=5)
+- [CCTV-2《央视财经评论》：（屠新泉）灯塔工厂 中国点“亮” - 对外经济贸易大学新闻网](https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tUGtzUWRZM0VxT29ib3lTNlpIVC1oWU10R0lMeFJsZFY2OHBkUVJBYy03a05sWmVCYTlNV3JjVEtuT0RaLXlpRHdqNjZlRFJzQmwwSGpETzM?oc=5)
+- [[天下财经]央视财经专访 马斯克：只要有时间 就一定要自己去中国看看 - 央视网](https://news.google.com/rss/articles/CBMidkFVX3lxTE8xWlctZkJXTXVoUmlhcFYzMFJuWkM5X20yRmdDMWJiR1FJaFRrUDR3RC1NeHNVckYzWkl3Zk8wRmlqektJSHN4Z2lUTWVONElKcDFZLUdPeHRRME96cXRDWm5TOFBkbkx0YWJCZ081bDlReE1rS1E?oc=5)
 
 ## 欧美
 
 ### 美国
 
+- [Is America a ‘4-letter nation’? - Deseret News](https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUhFWTR5STVoR0NBOWtiQkdLWm1zbGRwQS13cUEzbUVrWHhwbDIteU9idUcxY3F6alhJN21PUElkaFlESXFNZUdsUjY3TlN2bTd3ZEVhR1M3aU9DVjZPMUpjSFRtZWpmMkNxcVZkY0JYXzZuX1V5WDNMVlJhTi1WeFk2S1ZBRHRqdVREcWJDa1hsbkpyTUJ6UkpDS2hDRmpMdlE?oc=5)
+- [Powerful Thanksgiving storms threaten over 250 million Americans with damaging winds, coastal flooding - FOX Weather](https://news.google.com/rss/articles/CBMimAFBVV95cUxOdEhCc3dRT0p6Tk8tZDh5VjU0dGJKWFdERVVTZzZmbW80ZnJHemhla3FWTVNNLWY2N0RzV0VIN3U1bWxNUGo5MHZLeVBJM2swMURzLXBUMEF4V0ZmVVVTUEhRNDhTT2xERkRlNTBZTWNYU1RBOVF0RnUtdDRxYk9FWWlud0w5RW5YTXpyRUpBclJHNm04ZUFhbdIBngFBVV95cUxQNGE2bGJCMk5vbWFuVklpZmNDXzJFa1NlRDE0WTNONlVGeUpPUTBWSjd6NEdzbnRHYVllM3JVTUhqWXo2c05GcEhXZkdkVllTbGZ3VXJNczNEbGlUN1VVYS1MVGlyNWVzY3V1T1V2QmpmbU5uVzJCTDlkbXp3aWJodDJLNEhSaXNaU0JYckJYeEE3bmY3STNSZFdicDJwQQ?oc=5)
+- [The Greatest Show on Earth set for North America - U2.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmNnX28yeVBXTTdxVklDSkNDWlRBcUpaeVNuSFZaXzF4TTUxSzFucWxvZl9UdWFGNjVVbGJpRzZ1QlNFNzZkcVJPMFdWc1A0UEwyeG9tMFB0OVNnbVFNZ0ZZek45TVV6bnd0ZFZYaUs4RzdDWUVvVTFNSEtLVE9YVGVlY2I?oc=5)
+- [Pope Francis’ private diary reveals encounters with the devil, a spiritual crisis and profound inner life - America Magazine](https://news.google.com/rss/articles/CBMirwFBVV95cUxPLWJlMGZienBSa3plRks2NGJ3RmNqTDBNcTc3MEMxVHhvMFQ1dF8ySk9sei15VTJMSUpPcHYxVzZ6cU1wV241TTZEOUZVR2s1cmdmLUYxMXo1alhVT3UwcG1lbmdLX3RKQTNQMWZja0ducjNpSVl3UUFZNGxIamgzRmtvWjQ5czdJNFFONnlidW1uS1dCbDVQU0tpWi0zUk03SWFyVWxMREhYaVo5Z2VB?oc=5)
+- [United States to host Copa América for 2nd straight edition in 2028 - ESPN](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQi1lQmw3NUlZbW1KQkRoMEdFSVBBYVJzeXluMEVSZVZrRmIxY0dQakdSanZtRjNudFNiNld4SHFnVE1NU3lNOGk1OTdhUDRvZkYyaXVUdWN0T2tLSmw3dmwwbUVySGVVTkZPSHNHWlJUM0wwV1NtOTlpcUhqekJHdXQ3SVZPdw?oc=5)
+- [US to host Copa America for second successive tournament in 2028 - Reuters](https://news.google.com/rss/articles/CBMigAFBVV95cUxObVpHRm1QNERKS056TlFOeWpiOWRiN2hzT1lwVG5lWmxQa1E0X3NXTDlQTjZQUzQwdnVqNXhMb2pYN1J0YVlUUS1JX2NfeFd5UW9RRnZTakw5WDJWUU9VWkV0TEYwak9BckVocVR3YWFRaUQ0djVqaXVMVFVoRVljQg?oc=5)
 
 ### 欧洲
 
+- [Why tiny cars are taking off across Europe - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pLW5QMUtLVnVNMUdnYmVVWGR5d0VvcGlVYjJOdVJqZGoyajZ6VE1CdjlaVVV3M0FScTNaNy1xZlRzVHRocmM3Y09FcFQ1NnBLMFh5N25SMnZYLWc?oc=5)
+- [Irish plan offers Burnham breakthrough on Made in Europe - The Guardian](https://news.google.com/rss/articles/CBMikgFBVV95cUxQcXBwWHF1Z3JnWWRWRU9uYk11R2ZsUGpfVk5oZmlEZ1dfd25XMkdKU1lCTjYzYzFlc3hIUkc5RGRObG5lNEZ3dHo2SUhTSlJuRUFyd1hfeXdzWkRyRktWR2RYdGhoUkY0SzljQ3o3RW9MM3c0cXFIZlZndnNWUjl6blAyc0Ezb0VPZDROUXFLM2hhUQ?oc=5)
+- [Xiaomi profit falls as China auto downturn weighs, eyes Europe car market - Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxPVTdNQlhOOXJOaGNReUtEVmRIekJ3cG5hbzJhbUM5SFVlc2M0SUIwMDA1eU81NHBQN0x3MEZEd0VyNnR3Y2NWTVBueTBZTHUzNDNRZlJsQy03RG5tdkFybi13cGt6OFdfZG91a1UzT0Nabnk1dHN0emdfZUhCWE51WHBORFJJRWgyQlNFbUtUNkluRU9qdlprNjJXRlZkVFBD?oc=5)
+- [The Ukraine-Russia war is seeping out across Europe and there are two reasons it will get worse - CNN](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTXIzTEt6SnNNSmRBWHdaUTBTSDRKRDhBdk5vTTBmSl9Rc0RWYnJFNkZIWTRNVEJVNjZxa2xPWTNPdTJqeGlpTDdRV21XbDI2S2NvLUJNQmdNS2dDUDZWaG1USWtqaW5wb0doUzNNSVg1enJhMl9CdUlPZjAwQ3BMdklmeWIxaTFoNG1j?oc=5)
+- [Italy expresses concern to Ukraine over Libya ship attacks – as it happened - The Guardian](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaUN4Mm9uWUJLRjYyM2JkUGFvZ21uRndQZXJEY2pVUWhPZjR4ZnJjR2R5cjY0ZFZ1TWhfSW9RbGpWTC1iMXNEdW03Q29SNjMxamd2bjQxMi1xY1dnSEUzZWozUk4wZ253MVRUbUJVdmdqR3dpazdINERUNzItcVdLWkJIeTRVT0JHTmYyMkFmbVlVMXVBaDdJLVJoM0NPc29SQnZ5d0NkRlRheUE?oc=5)
+- [Ukraine sinks Russian warship in Libya as conflict spreads beyond Europe - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVVOaXhUTVZWaDZ0YnlSQnRpZk1JdVpWdkJKVUlmQVpETHVkYV9CazJxR0xnS041MUYxQXcyV3IxZWpqbkVrWk9ZU1NaY2NyNTdHTjd6YmFHSFRIX0NpTE8tV3ZYaS1LajllOGxZZlAzclF3OGpiWU1Jd1dTNVB2VWtJMEZQd1lROVhxUnhYUUJ3TFBsMUV2YlFaQktHU0Q4RHktYnpTLXRndjl2aEZlQ3VzZWZSSFRSVzJiZjJsa3JaSkV4?oc=5)
 
 ### 英国
 
+- [Burnham says 'unthinkable' for UK to rejoin EU without a referendum - BBC](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfTUtKcXg3UmVJLWZOSEZ4N0E4eENYT2dEb2tVd1BtMzI1LTlOdTVKYlRMS2h2Z1BYcHlQZ2pCYTJIY2pJNXNsa3JyUGE5ZGdXWklUOF90MU4?oc=5)
+- [Nearly four million people in destitution across UK, study suggests - Sky News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWXpVYVk4YjVmT09tZ0Jjbmlydk1OWFVsWVZldDRucEUwZzYzR1hIanNpTGNqOHZBVk40Sm1pRF9Rb2hIUk9nMEgtRkxpS0FPcDlJM3BnVEt6X0Fpam9vbjk3WTNPM1Q2US01bW5mVjJ3WXQ1Z1BqY1NIcG5MM3lCX1k5eklvaEFnVE51Q1Z1NXQ4SjlUWTJBaHRJRC1UcHdKdE5hZQ?oc=5)
+- [Misperceptions on immigration 'widespread' among public - Sky News](https://news.google.com/rss/articles/CBMikwFBVV95cUxNLVBDTjRKWXNKR2ZqU2hfUmpUcEFfOGlzZWpXUFB0U0Q2RjFIYU5ZNmF4WnMzaUphNWpyZzBIb3FiNVlRSDdia3dEQmJGV0pTQVRiS2lFejk3a2RNUFZJRTFIcG5RY3QxTXBGV2tqbW94Zzl2cTVOajNzeHdnekVQT2ROMVk2OUhULTdoRFE3Nm9GMEU?oc=5)
+- [Coldest spell of autumn continues with risk of hill snow, ice and heavy rain - BBC](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rRGpfcDUtU2ltdHlwa3FsVGg0dGI3d0RCMEprMncxNjJCVllXVjVDejN4Z3hNVmtxOEJGa0dQMUFVT0t3TUh2d3lVNG9PWjZkeW1rMmw1QU12dnRKeEpv?oc=5)
+- [Burnham opens door to wider NDAs ban at ‘watershed moment’ on abuse - The Guardian](https://news.google.com/rss/articles/CBMipgFBVV95cUxQYUZIV1laOUJIOVFFcmxhZlF5cHIySWcxeGU4bkR3bWhpbHAyWi1xWTRsemxGT1BhR1VfcUpmb1REemZBYmM2THdPakxmV291OU4zRmdpMVpqN2diTm5fQTlCVGdmVUwxTEN6eklZQWhpYjA3OVB4MDBzbzhiaG1xR2Q0VEpNSTlrcVY3ZGpIS21qb2ZmRkNnNHZuMUFqRmVjOTZPeGZR?oc=5)
+- [Russian warship ‘jammed signal’ of BA and easyJet flights - The Telegraph](https://news.google.com/rss/articles/CBMilAFBVV95cUxQRVotMVVsQm1XS1pteVAwMG5vNklndldEUFpOSzZZYVRSOXNvQ3BlRUgzNnhWX01JVUNQNkZXVUNJRHVQNnJtcTNWcUVDM0hFaHFiSGhLWmFrY3VTbm1USGpZdWxyYUhiRW9DZWZxRjFORy03MWZvSDJQRmwtNjFpdEUxTnZORnRMaV9sYUthVTd5X1FT?oc=5)
 
 ### BBC 世界
 
-- [Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang](https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss)
-- [US to blacklist Asian AI firm Megaspeed after Nvidia scandal](https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss)
-- [Nato chief vows defence against space threat after Russian nuclear satellite reports](https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss)
-- [India's 'cockroach' party leader says he was stopped from flying to UK](https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss)
-- [What strike on Russian ship in Libya says about spread of Ukraine war](https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss)
-- [Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book](https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss)
+- [US attorney general dodges questions about Nvidia investigation](https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss)
+- [Russia's own figures show almost 500,000 deaths in war in Ukraine](https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss)
+- [Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle](https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss)
+- [Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight](https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss)
+- [Huawei found guilty of stealing trade secrets but acquitted of racketeering](https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss)
+- [Land mine casualties soar in Syria, two years after war](https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss)
 
 ## 俄罗斯
 
 ### 俄罗斯
 
+- [More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0Fta1BkcGNCQ3ZRMmRYZ055QmhtMjNuQW83d0hUbWJEOGo3SmloTmdENnZmdFQwS0ptVlRFWGFocS1BNGhSNm1xMGdPdEpSVnA1Z0FjY0YwTkVObnctcS01WXRleXlxZUJNRk1zYU9YNlZRcFZJNm1OcklnczhRbzBfc1ROeFJDSmxhMm9LOUNBeEtEd3p2NVlfamo?oc=5)
+- [Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates - The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPbGtaSVAtSnh5RTRGUmp6ZW5BbUhiZFlPTnloTlB0MHpsaFRsWmJkQTB4czRDWUl6OEdfcXZmUVNITFY1ZjFSOHoyLW94VHFxZm9SLTRJZHUtM0hZNmMyX3JMSVBCUk5VV3hzU211VVpUb1lBcENuWGtTZm05TG00bDFCSGM?oc=5)
+- [Russian Offensive Campaign Assessment, November 22, 2026 - Institute for the Study of War](https://news.google.com/rss/articles/CBMirAFBVV95cUxNODdQVTd4c1pRclVKdzQ5cmhsTDRCOFVSS2R2NGhDV19WVmktTVZ5TEp5X0pzakdHT2U4WVFRWDkyaWNwV0dBc1NpRkJmczJRWnU4T2JuOEI3MXdaZmo2UzZaSXhJYWhHeVIzaU5Ic053emtFY0F5em9rLVJvMnRIQm1ldmRhd0FBc1JNRW5CMkxiTE96MTZlVWx0NVpJSTFKS0lDVm5rWXNnSGFl?oc=5)
+- [Reports: Russia may launch nuclear weapon into orbit as soon as next month - Ars Technica](https://news.google.com/rss/articles/CBMirgFBVV95cUxQU3JPbWdfSDRPQ044NDI5b194aXhyOXVYN21yRW5vc3VtQWNvOWE1UWhrdkh4LS1kMU1QZUVCbXNCRTJSM29uSG82NWJQTzJLZHNjdEZYdjkyNUpwbjN6bHBDNWU0YTQyaWJDb19lQWo3N2xzNE5OZGZqTzdEcEFINUVVRUcxOGVoS1pnTVRBQU41TWVuT0hGdDBMWTEyak5qbjFSQUk3TjZIbXlXYkE?oc=5)
+- [Zelensky urges four-way peace talks with Russia, Europe and US 'as soon as possible' - France 24](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVEtqa25rSm4yYnMybWpTam9YNEVLTzFMbjQ4cDdqRkJoc1IxNUl2UWtGc0dkQXU0a3FjVGM1NTlYSXZoM1ZhakxfblhibjB1cXB2Mks1MWhITEVfZzVxYXVKQ1NGZDhvX2stbmNwU0NqdjhYWDFuVGp6SWZBTGJkejdOTVN6Q2MwN2tqSlpNLU93SU1NMndZeUhCY0NwQVRyR21PSkh6Z0NzZDNOLW5PemJGVFc3LVJ6NVJfRzFFWG1BY00?oc=5)
+- [Satellite Photos Reveal Russia’s ‘Satan II’ Nuke May Have Entered Service - Newsweek](https://news.google.com/rss/articles/CBMipwFBVV95cUxOd2Vhbm52OFUyNlE5VzBxaU0xZkFlclZHdTZucFFpNms1X3ZYbjBhd0VXRThKREtRTlJjSllBdVZXMEQ3aEdWVzF6dFZNTnpmN19OVmJUTUxOTWFDOWo2S3J4QlFvUG11d3pzLVRwM2JaMXNLa3k3WWY0OEwwTHlwU3ZmZFVVSk5HY3E0SVptX2F3Yk5yOGtGV0hETXREVnp2bVFiczN1WQ?oc=5)
 
 ### 俄罗斯英文
 
+- [Russia's own figures show almost 500,000 deaths in war in Ukraine - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE52ekxuU3VuendQQVpId1BlX21DeXpnMW9teFNfV1A3Nng0ODhEblNKSmRVd0dHcjFpY2xfVjh5cVg2bnd5LTRaaWNQQlF3bGVDbE9rUGw5My1lSE0?oc=5)
+- [More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals - The Guardian](https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0Fta1BkcGNCQ3ZRMmRYZ055QmhtMjNuQW83d0hUbWJEOGo3SmloTmdENnZmdFQwS0ptVlRFWGFocS1BNGhSNm1xMGdPdEpSVnA1Z0FjY0YwTkVObnctcS01WXRleXlxZUJNRk1zYU9YNlZRcFZJNm1OcklnczhRbzBfc1ROeFJDSmxhMm9LOUNBeEtEd3p2NVlfamo?oc=5)
+- [Elon Musk shifts the blame for throttling Starshield in Ukraine - The Economist](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMGpJM1EzVGNVMENSU0FrNFV3aUQ0SkdRb2xZNkN4UXR5QmhTSEVmNUJJakYyU1dtcFdkbGlybEpIaWZWTTVnS2t4LWZCQ1JVSmtJQm1RaTk2YjZDRUlrUEpJNDNjd1UyY0dzNGtILVZ0WlMyM3BITG9GYnNyMmgxQk5aNm1Cd19rcGRaZWpNZVgzMllEamFobGl4MGtETk1WNDZvRi1BdTRnUHM?oc=5)
+- [Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants - Al Jazeera](https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVlLVzNGdDA4X0FlQVJiZDFvR2RncEpnbThvT3ZhSTVrUzlwaXh6aWtreGRaaV82T1B3WjA5dmpkNldEUHUzRFZaUndnMXQyeF9jTnI3LVZ3NTRSWTBaNkpBT05IVEJDMlFyWVN5eTlHTjRPYmZlWm1JS2VNMGNjb09Da1BieC1WdldIQW5IZzFFUkE1MzRRdFFqWjB5STNFdC1zT1k2ZVRvMFlmRDJYZDhjNC0tZlHSAbwBQVVfeXFMTzlnSnlkOTlWUC1oeEdrU3MybWZuN2g2bmlVcFcwY29mZzRtb3IwamlBMEdjSlp3aEpJaTBiUzB0NXA1NElrWmtwMnZSZWdJWWE4dW9Wb3IyNnFqRU5KODh0eVpyLUZxQXBZSUQzTTQ5RWd5Tlp3UXowMnNBQmxRRW9UVkVad3RFZjRiTDVKYWJ1cGwyM1lubHlBNXI3OG9WaWM2SjhEZHlsNWxEdTF2LURHejZlWE52d3F6dlY?oc=5)
+- [Russia-Ukraine updates: Moscow will ‘respond’ to attacks on oil refineries - Al Jazeera](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa1FIVjB5VkF0MjhmZHIwblQ2NXhZMVJsQWFVWXNsMExYVW9TTGdTRjFCeU1fblVJaXFqd1FVLW1Yc05OMDc4V0xiWnFnMTBDc3dDYjBMX21MOGJkU1h3MmJ1V0dwT1N2OUFBdmZ3UmN0bTdoWjZQQUduWkExN0x5Q25rUU9QRjg3aEE4QnZGRy1pN0VQTm50ZUprTldjMWtsLTU3X2poZWxhZjlvLUtiSDZpWjFuTHdQcGVoVGpldTlhQdIBxwFBVV95cUxOREw3U0drX3JyM1dhRHBpUlkyR0E4TUM0QVlYRld2a3RPQVNGT0R5WUhYYXJmdTdEeWVvYmVlWGlCcXQtZWx3WkRBWlZPeUtLSmtLOXRsTzdFZnViZnlrZWVrYnZBSlhNZFVsblR3Tnh5cHJwanJvWm8tdlFRcGdZQVBidGtvcFlOZnBlcTBJXzQ0blpWYjhIZkdyNDFEMHVuUjZ5U1Z0UkJyQjdmYVJwbW1tc0tBd3pYNTR5UFJ6TnBSS24yN0lr?oc=5)
+- [Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmpVNVoyQi1td29TalNHby02a0tSU1ZBMng2Y1BTemxZWkExU2VPLXdTeUpURUtrd1BremtnTG53eDhzeXlwMndrRWdNa1dDTVE5VExXLVpBY251X205UVhSU28xeDc2bjBfMFBiYU5ubGN6NU5YdTJlX1J5amtqaVNEX0VKb1dzaWhqaGNNazZXTkVpOWVBOVFQZXBlX0U1dGx3d1ZBdFptaXZJQmNuc2pFUTRncG9oRndTZTU2WUFIdDhqLUE?oc=5)
 
 ## 日韩
 
 ### 日本
 
+- [「日本を外しても構わない」孫崎享氏が警鐘…APECで浮き彫りになった高市首相の“外交的孤立”と日本の存在感低下 - Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1NUWFpMlBsWW1KZTJ1SmRVRkJxR2FFQVdoT1M5QVd2VXctRTJMTEFxaTVGaTBtcHFDTWg0THRaeHBPd1JGalNDRFJ3LVRvTXh0LXNHNXpBRElKeUxRaWVENDVia1g0OTJnT1psT0FZOUlHSTBORFQtUUVHRTJOZlU?oc=5)
+- [11月30日頃～日本の広い範囲で「この時期としては10年に一度程度しか起きないような著しい高温の可能性」東北・関東甲信・北陸・東海・近畿・中国・四国・九州・沖縄・奄美地方で 全国各地の12月10日までの予報も掲載（気象庁・早期天候情報） | TBS NEWS DIG - TBS NEWS DIG](https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3cVFvemZCWlVlMGdPSDBxMDFjYU5zM2t0ZUd0UkZ6ZGltZDFETmd3VXo1R3hSbTFCOGxQOWFNNXZXU25JVld3WUJLaE56U0RJVUNWbnVPRQ?oc=5)
+- [日本株、11月に大底となる可能性もV字回復は見込まず 注目セクターは銀行・建設 野村證券ストラテジストが解説 - 野村證券](https://news.google.com/rss/articles/CBMiX0FVX3lxTE91QTk5bmo0NTJjZ3R5TTJZdjdJRHM2RTRZWlVsS0w4WXFkUkRSd3ZQOTA5S2ljWTFRb05Ra2hDRV9DdjdNTnFfcVVwVTMtZ0VYWUpKaXNxcG9uVmxKVjBj?oc=5)
+- [【シンガポール日本人会幹部がうなった「24歳とは思えない」愛子さまの「お心遣い」】 - 新潮QUE](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JT3kzN1VMOUVZX1pObmhzNU95U1YtQ0VPbWc4WUhibDNTXzJ4cERpSlo0OUVBcUhFRVVhMmhVMEgwQmhqUjVrOXhmbTN3Ukk3?oc=5)
+- [全面安で配当利回り5%台のマツダ、日本郵船など高配当割安株が増加。今週は「日本のAI株リバウンド上昇」の行方が焦点に - トウシル](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tb0dkcklsNG1yNDZabkVYOENfRTVSNDBjRWRwVlQ0c244TlJwNDg4VkRyU0dTMGJNVnFDUW5hc3Rsbm5jcXd2eFo0NjhZNTlSc0VRNkpBZnhRQQ?oc=5)
+- [発表！ Forbes JAPAN「日本の起業家ランキング2027」 - Forbes JAPAN](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MSUE1Qy1PWnpuZ0llUlZ2d3hmbmVpVW1kMnFfQmhTNmxaM3Fwc241S05Cd1laOERRWVN4Y3RmMDYyODY1RDJ5OElha0JmbGJKU1FJR0ljQUJxdw?oc=5)
 
 ### 韩国
 
+- [대한민국 첫 수출 1조 달러 달성, 공공조달이 수출 성장 이어간다 - 서울Pn](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVLTdINzFlZmRmeHA3RjdEeVBkeExQMHMwUi11bmJuQlJ3dHFhdnVjdEk0WE0yTGEtUFNIdTh1TWxSQkxMR0diZFdoaDU0UXNrYllJdUtIQTdGaFV3VmdfUWRR?oc=5)
+- [삼성SDS, '대한민국 정부혁신 박람회' 참가…AI 풀스택 역량 소개 - 전자신문](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb3FZeFBoM1FUMElndXkycVdVR2tjNXdrU2dDQVQ5bWY2bDBWZ19PYjVwSnhPekhlc2dzY19ITU5kcng2Y3BJRjVLcVVaLU5mS0o1NmJGWFMwSlhoWFViUXBCSVNYX25fVE9zb3lINGhVWnR2WllpQ1ZLZ05KUXJRb1ZPMWNFY1hHV19ObHpLckszbGNEdWUxQ1AzekFSUW1ablpHczVDWVBjOUNKTjdKMGpFbTRXRkFZTzNsZldZLTltOTdUb3RrclJqRlhlYlhYZFNwQTFyMA?oc=5)
+- [[태평로] 대한민국 공정 시스템에 울린 재난 경보 - 조선일보](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ3JRZ3Fid2x3cWo0UjBhb3AtaUROcXRvdjFSdVZfdi1lWEE5UlFsaGNMdm85bU9UODJ0YWhVZzZSYVZzRUhvaUcxZFpNX3NZeUFnVHVYWHdmV0RpM0xtc1Q5MlQxanVFZWdNcnJmMzV1b1Y4aHZYSVJKanNab3RkVVRxXzY2UjQw?oc=5)
+- [안철수 “미국, ‘中 간첩’이 대한민국 국정원 접수했다 판단할 것” - 경기일보](https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2Y25kMlJMTk91V3ZLbDFGTHZKYTl3OXI1TjdYNW9CNmQ0UG5kNXFvNTNSM2pJWkJrNWxrVXJ0STAtX2I4cVV3THprZXRLOGJHcEJUTUtwc1Q4dG8?oc=5)
+- [[천지일보 시론] 누가 東方 대한민국이 세계의 중심국이 된다고 했던가 - 천지일보](https://news.google.com/rss/articles/CBMiakFVX3lxTE1sQ05YTDVzU1BGcWFIVnZkLTMyYWlVQVhRYk5mdlhVQUpvNVVkNHE3M1BjYUZ2Yko3WWcxYzV0OENkYm5iVEVjS2RHYzJqaTJKZzdZekhlM25zNWpfb0FwcnhFM2VVVC16NFE?oc=5)
+- [중부발전, 사보 '중부가족' 대한민국 커뮤니케이션대상 수상 - 일간투데이](https://news.google.com/rss/articles/CBMia0FVX3lxTFBBUTcxU3ZKOFZhdFBVam02MkllSlp6YVluQllsT1V1Q0ZPWE1YNFlGN0JUNHI0VUhQcGxSVDYwMms0MDdjSDA3TjkyYk0wUFZ2c1doTlZjUnFwT05yV19mb0pjMnA3bVVyLXU4?oc=5)
 
 ### 日韩科技
 
+- [A Loved One’s Voice, Once Again: VaiceOne Introduces AI Voice Restoration in Japan - KoreaTechDesk](https://news.google.com/rss/articles/CBMibEFVX3lxTE9LNzZqWVkwTHAzNFF1b3FRaHVrNTlSRzFOT2lFWVBPRmV0TUZobncyeWpSMVZSSTFuY1VETUxRdkFPeEpfVHRZZE5wNjk1c1hOcXdPNXhydDJJZlNKemtBWmRXdHFuWmtNejVFRg?oc=5)
+- [Asian tech shares slide as AI-led sell-off hits Japan, Korea and Taiwan - Traders Union](https://news.google.com/rss/articles/CBMihgFBVV95cUxOYmVMU1RqbnctX3VmMW1nV29XWnA3QzdaMUJqSWdhOWkycUVfeXpCcDV6V1RBNzAxZU1qaWxoMEx2U2RVVERHYnNLeGthY0tSMG9tVk9pQ2ozN0o3X1VOWlZFZ2pzdkxxcTBrWm5GaDZoV3hJYzg4ZHd6Nk9GR0hFTkRhbzB2dw?oc=5)
+- [Japan, South Korea Stocks Drop as Kospi Falls Nearly 5%, Samsung and SK Hynix Slide Over 6%, Kioxia Falls Over 12% - TradingKey](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMlhMX1JjMmhkcWF2NGluYS01bmVHc0VmcElTbjRvOEdBOW53elhvQjc2X0llQXFNd3g4SVBvZjRBbHdWTTZFbVdzN0xUMWlvTkJDRS1QX2M5X1JhWTlfM0JZY1NDa0ZpZXR0bW9ILXF0bDBRbTBPZFRlQ0JtbnJVZ2JYUHJmUHVXZFdJOE5SRXduQWJBYzJBdnFvYnFhVy1Kdi1yM1BuV2xBcV9GR0hoOWVMeUFySnYtdlJnSlp5ZE4xR0k5MFdKNHNhbFluS1lQS253WkVR?oc=5)
+- [Japanese stocks post biggest one-day fall since ‘liberation day’ chaos - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOSnpPZ2l0SS1MRTJJQk1ZRWFuWGpBNG1tdGd5amlEaEN4TFR3VmNvSlBOVXA3OTJBMzE0azNrR1o3QkhVZ0lpcXhJejJGMEM5VTJEVnVsckZ0WWcyQ3doVVJGOFZQNTlYSGhIdTlZOHJTLS1wQzRYemVKRzBXSlhuUjIyQzg?oc=5)
+- [Europe, Japan, and South Korea Propose Global AI Standards Body Modeled on 5G, Without US or China - Tech Times](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaGFhSzRiQmlxZUlyeHZSNW5PTGl6X0FNQllDMVpFNEZXbGd3T3pkeUNHOVV2a1Zabk1KNFl0WmJPTnBHV25EVXhvTTd1bk1hYnlVandJUHpDVll5VEpVd1FuU25TSUpmU0N6Mmk5VW5SeEZ2WDJZa0RhVWZ0MWc3M2FGQ2JEcG94WlpfUmJCWmlrdnhCUTJ0SDVoMHY1RzI0MTB5U1Rsc2FoUUFpMXd1SnAzV0FkeU9MeXlvcGtIdTBQNGZLSDdDeFY4ajRFMTJpbFJCQkpKOA?oc=5)
+- [A Japanese Drone Partnership Tests the Business Value of Corporate Fund Investors - KoreaTechDesk](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWmxFNF94LWE4Qy16X0RjeF9MUmlVZE9nSmhFdV9KTkhVSmNXTm1OTzZ6RjJlQXBhY0gwa0tGQWRHV0hubUtMVGx4ZHFnX1lRRXVxZGxKdXZxbVpyQ18tbXhfZWYtTEhvUUxBdkJ4bWI2cGh3YkZLTlhoUFgwWnlIYm92bUtleXpRWVZz?oc=5)
 
 ## 科技互联网
 
 ### 产业源1
 
+- [Tech Executives, Investors Confront The AI PR Problem - Bloomberg.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxORWpfVm9BcmJ5T2tkbUZTZ291S1BNdVcwUGxOV0xwTUdVZlBUSjB5R1dVamhDLUJ1b1U4UHlYYVZZb1JueHVPcGM3WWtBb1hEV3cxbkF5TkFvSEtxZUswT0xWV0pSdDJjQXlHU0NSUzhfQm0wdTZOc0hFaGdkVGRIVUlMempGVG53ZkptcUR1T1VrNEZvMC1GYzhRQkY?oc=5)
+- [Dell, HPE results to put AI demand to the test after tech rout - Reuters](https://news.google.com/rss/articles/CBMinAFBVV95cUxQMGRQakNnZXNxVkUyM00xTHlkV2Nac2RsaWEyRFV3d2pGWVpxN3BKTUhKb1NkZzlRSy1vSlRWM0lRUmtCXzM5YnBjelBISzhORTRRT2ozc0wwNHQ4QVpMSTdnelBMMWFvR2MtUnBiMGtUZHlnSFpHb2F4NnpPY3hrN01YYWJjUVpzclB1eU56MHlOdmN4T09LUDNwWGQ?oc=5)
+- [Xiaomi Expands AI Investment: What Foundations Enable MiMo to Achieve Cost Recovery? - 36Kr](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IRnA2UkJsYzlXekdJaU5BMzdYbW03NE1BY2xBcms1akxmRG9DLWU2TU1SbmlRLWdvUHdGN2s2ZTR4R290NjBnNUJoS2wzbUdPdE5V?oc=5)
+- [Watch Tech Slides as Nvidia, AI Risks Take Center Stage - Bloomberg.com](https://news.google.com/rss/articles/CBMihwFBVV95cUxPWDJFZkY5VWFzUExzUi1jZjB2UC1FV3Q1UEItRGlQWlRzb0lZTFNsX2lGZGExT3Z0VzBEUmVZZW5ZVEFMTVBmZzlnVTZMNTJLTDZuSGx4UG81SFcwU2xESlNSMEJoLW9jcEtoQlNDTnpwcmZZcHBvZDdnd2w3XzlTcUREUFBZdzg?oc=5)
+- [The most misunderstood graph in AI just got a major update - MIT Technology Review](https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGlwUWg2Q3pmV3VGdS0zMUdBTjc2WkJQU3BabW5rM1prQXpEOGU1UG1rWDVNNFU2WFdvX0ZNd3NkTzVJbGV0NDR0cVNzTEplZUhFcFRqS2pyNTBsUlpFazZzUVV2WkZOWnQ4UkFHYzZDcEVKcTRVM0FVUVNhdDRpT01iVVR1MDRGUFk4ME52OHVYSzhqRjdwcVpvZmpsdjZWYWwzOWdibF9MeDNtLVRmT9IBtgFBVV95cUxQdU1ReklWc2VoVnV0QU14SnpOempHZE55R3BfUE1TOGUzZWNBdEFvMHg1Z2h4WW5QYVBWQjhrdmc3UFR1WVJ1MXRlM0xWd0Ryb1YtSTd4QXBFbkxjSDFVbllHR2pyZkxHRV9xLUZjTW5mYlVlSXkzREZYR0pMNnl4dVphZi1TeGdqUkRZODlUOGN1Z2tXV2g1cHk0dnVPZVIyeEdnMTlGWmtKUXkwNHJkbVcxS0wzQQ?oc=5)
+- [The Case for A.I. Optimism - The New Yorker](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdEk0S1BObEk2bndFTW9RMzBjZzFxOVFnUVNJb2ZmWDd6UTI3b1h0dnkwbk91Smk0SEN3d0NZbVlqQl9zdzRabTJkaDBLS1FSamJ2X1RGSHVpVXRHV3ZRRllUaEVLUU9vRldydHpoSHNLOGZnbllVeFdXRGxhTVRSbjNCM3R2NTRqTWh3?oc=5)
 
 ## 新能源与汽车
 
 ### 产业源1
 
+- [Trends in electric cars - Global EV Outlook 2024 - IEA - International Energy Agency](https://news.google.com/rss/articles/CBMif0FVX3lxTE53WkU3bkN1TWZxVkhEelJqem9tUERMSEVpUlB6NWlyNnIxTUV0MzFZVlVzZUREblJNOEhlNmRVaW1KWGFhSmVNNVJMblNWeU9nVzE0by1xZnJKRUhwTTJrSTFZcGpDWE1nUm9YZEpfWWowSGtlRnZNV19XcVFaekE?oc=5)
+- [How Local China Built the EV Boom - Pekingnology](https://news.google.com/rss/articles/CBMickFVX3lxTE1XVUtoUXc3VEl6U3hZcDhCdDNXaURzSy1leGNSeUNFcEtuMGpyQTNsUDRDS0VVOEVFQXBsd0VtZEN0ckNjUk03QXQ5d3gxdE1mOWxWUUFIaEJOYVNMWDI4U3ZtZ3BsYzJXcmdkVjlKcTVFQQ?oc=5)
+- [Global EV Outlook 2023 - IEA - International Energy Agency](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LbTJMTU53ZDNlLVAtUjFIcWdUaVU5MWpXUmF1ZUY1b1Q3STNocVotS01WMnBJNjh2OUV6bFVjZzV1Yi1fd3FBQVVjVjBYWXNQVmJGWkNuUE02cXExTlVF?oc=5)
+- [Gasgoo Weekly | Minth Group Net Profit Rises 16% in 2025; Aptiv's New Project Settles in Jiaxing - Gasgoo](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVmM4RU0taGdyb181YkN5MDFxVlhjSzJTbktqcWF2MnNPazR6TDl6bmhFTXZFVHd4UzdySDhjUTNmS0tYajQ5dXhkUnZzMmFxTThnNjB4NW5xbnVwTVV3N2Ytb19IeXBqT0hmSUZYM0RWY3U3dDF2VXRlM1VvVVl5bG5HOU9oTl9fNm1WelRBcGpvcVdEeFRqRDRCYThvVTlXVkxMczZzbDhmcU5FTzEwTlBOUk02VldubG16ekR4akdIVFhDM1NFTzczWTlkSHc5SkR5NC1aWmdfWmlIZlQ1Qm00QXZUdjV1?oc=5)
+- [Low-speed Electric Vehicles: An Underappreciated Threat to Gasoline Demand in China and Global Oil Prices? - Baker Institute](https://news.google.com/rss/articles/CBMifkFVX3lxTFBxUVM4V0tpYnN5Nlllc3JUMEpQUEV0X1JtZ0tWUXN2Z0FOaEtwZktoT2hZc3kxSjRLNGc2a1BubDVCLUxJel84ei10aEozcjhXTFVnUlh4eHJnS21WWFBHM0tCdlYzNk85TGNEUDdsOUctMjBRWU9iVkE5a0ZWQQ?oc=5)
+- [SAIC MOTOR - SAIC MOTOR](https://news.google.com/rss/articles/CBMibEFVX3lxTE92WUlkNHNVTkVMS0NsU1l1QjFXVi1xNEdESGpVdUtfN05GN0Z5bGJ3eGVvNVdBbkUxX3Z4Nm9EUmdMaWI0Vjc5TUFmaGl5R2IyRFMwMmNZSFZZaHRmeUNacENFUVdzY3B4WFlENg?oc=5)
 
 ## 半导体与芯片
 
 ### 产业源1
 
+- [How is Singapore developing semiconductor talent to meet industry needs? - Singapore Economic Development Board (EDB)](https://news.google.com/rss/articles/CBMisgFBVV95cUxNY1MxS3hCOHMzQ1BxRVRMU1Rndk9JMmdKdkZvNGFPUFg1Q21VQmpkWnVrOFZCbE12LWRHREtCMTA4eDk1Y1RtZEVoYmQtemh6UHNLX1dGa1J5enVRNk1VN2phdU9rbzFibTEwd2lmTDRsUnhLTkltbTh4c3JfbS0tVGx4Z2JZQ0lSOEJuS0dxNEhQQWJYWlNDT0RBbW42UkU1aDEwZ2V3aWJrUUFzZVV5Ui1n?oc=5)
+- [2026 Global Semiconductor Industry Outlook - Deloitte](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNalJ5QUZsY19UbVJDWDM5LUdnMDZ5RkxBS2dQU0lXQng2ZmpvSndFQi1CdV9jT0FTSmNvUEZXdG1kMnZMLXVFQVpnVzlDSncxZjE1VHE3S0pBUzJOWGdoRUs4WG9DLVkwV3VLTkdCMUs5VzZyUmNYX2JVQVJ6X21uSkI1VGZVZGJhZkFSNFlMZTVmZTdqVk5SczRFbUowSFlsME9Hd29xSUZBSFJMX3FOM3FKdkJEQ3B5cHY1dVRmUTlVTFFPb1NSNg?oc=5)
+- [South Korean tech giants to build a $518 billion chipmaking hub to serve soaring AI demand - AP News](https://news.google.com/rss/articles/CBMikgFBVV95cUxQUmk0d2xrODVoeHR5UW42bVBuZlRwSVk2SklzVlpocDAtNmdyMVVUdnpVMF83dW41cWNiZXIyWUp1MFphRGNvRW5DbG45NXhlQU9yRktmby14ZHp1Rzg5ZkVhTE9la05hLVhCYy1UMnh3ZDVLZVh3TDNmR0MyeXp4eWFsSk1iclJFSDZGQjJTN2VOQQ?oc=5)
+- [New Report Finds Semiconductors Account for 95% of an AI Data Server Rack’s Value, Encompassing the Full Stack of Chip Technologies - Semiconductor Industry Association | SIA](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWnRsazNfRFdXeUNoM3VQS2QySUFrLThKYkd0akM5emRmNWVndTdjRkMwUDVHVTdOR2hVU05aaGozckg2YzFTd3lwNWNES2VfZXI5R2ZqOGtjZ09hdzRGZmVKaHk3dmFTRkRYRmtpVm5STmhocXpfLUJKenM5Nzd0YTJMZkZyQnFGNnNQVG82a2FQUENhUDhwQ3hXUDU4WFNXTjc0Rm5UemloLVRQeThkTzZUY0lud0d2SjRuNVhJVXUtSXdBQW93WFJWOGVwTUdDdGREVTFQWDBMbUNVbVRFSy1JZDktbEFGU3FIU0lqTGdpQQ?oc=5)
+- [Design Linked Incentive Scheme - पीआईबी](https://news.google.com/rss/articles/CBMiekFVX3lxTE8zcjd0bTluR25rN0lhUzVkLWgtbHpNSVBHVi1Wbm9oTTFkbF9wVjdnOUtXTjFMdVc4TTFHcXpCemJ2T1RsYUIxeDU2bjZnbWdPbXhFYVVhVkdnMDV2VDhWWlQyQmtfQldXWnlxX2V3OWtOM1A3dGprZG5R?oc=5)
+- [Huawei is quietly dominating China’s semiconductor supply chain - Mercator Institute for China Studies](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ2J4OWpjTDZJbzFjUTlVSzBBaGYtWWcyTk5BZHFVY1QyNnNNa1cxZUVDRU96a3gtNnRaS2tGSVNEUWdJbURSUWhMZmFraEtqSEh0NmpIRi01M01tdy1TdEZBbERLb2RlUHF4V2g1TmhqWnB5OTdub0VmY0pxX3RQLWpRLVEyRi1fX0pCTkFlTHpXZw?oc=5)
 
 ## 医药健康
 
 ### 产业源1
 
+- [Mapping the noteworthy startups in China’s health sector - Tech in Asia](https://news.google.com/rss/articles/CBMihwFBVV95cUxPUE42MlBTU2tPZUphaFJoWm1zM3ZadkFQUzNDemdwZWFMUzFxRlJRTUdYYmU1dnotbXI1UHlBRU5WYkhQaC1aWDIxbUJiamtWRU5PcF8zU01Tck5vN3phMUtKZWhfLVExU0FWeHA2MmFuZzEwWS1RWHpZck5zNXh0UGxGRE1vVHc?oc=5)
+- [Briefing: Pinduoduo launches medicine channel, tapping pharmaceutical e-commerce market - TechNode](https://news.google.com/rss/articles/CBMid0FVX3lxTE1mLWo2RnZTQ1dCMmRvaXNKeExDMXFyWExjamVvbGZwMHZxNG5JRTJ3c0V4Ukp6ZFNzdUZJUjdjS1RLcklrYXhaT1NJblRCbTVJUjRVVmxKVWE5UkJpYmVUaGJKQ0hGWVZXb0lRYjJEUmNmTE1IV1N3?oc=5)
+- [How MNCs Can Tap Into China’s Booming Pharma Market医药新闻-ByDrug-一站式医药资源共享中心 - ByDrug](https://news.google.com/rss/articles/CBMifkFVX3lxTE9zc3JLOXVuRmd0cW9od3NwME0zQXlXd3hyaTJPbHB2WUFmLVUtOE11d1NMUU1KeU1oY1BEUEJ6WXJJNHBDcVRvUmI5UUdPeHRxSjg2OWNub2sxdElPS1kxSDFOZ2dIMm5mb1J2RHRRa3JGV1RFb2U1N0FHbVFKUQ?oc=5)
+- [International Students in Hunan Province Experience the Magic of TCM-湖南频道 - 湖南红网](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvTEgxMF84WXRzaUdXQ2o4NjVVNnZmNEREV0V4U25GbFVpVExMc0p5VkVzNXRKdTUwNjBwQjNHQ3lqZEFtVDRZTXhMdFNldWVDRTFLYWQ1dmthZ1ZsRVhSQWJB?oc=5)
+- [WHO eye care collaboration center opens in Guangzhou - 广州日报新花城](https://news.google.com/rss/articles/CBMiigFBVV95cUxQLVlnSUh3VHBWYks3NWNtaTRNazVlZGNWelZMMFRYVjdMYTdISmFNTWVsVTJMQ3o1ZXlZeG5ZdUtmZm9RbEg2LU91WkJOanJYUUdJRzlpdUxMMVJoclNJTF9SLWlITDF1Y2pITXZYeUZFUWgwZWpveEpIZGRFTDBiRi11T0dnd183YlE?oc=5)
 
 ## 金融与市场
 
 ### 产业源1
 
+- [China halts listings in bid to bolster struggling markets - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWRIVmFzanBxYUk3dEZxMUdxVURNZlVMakljMHBrdVhWbHhYUHQ0WUtlQjZ2OFJ5ZzY0UzMwY1UxSGtvZFRpRVFMdDNPZ0xzVzRJOHlkQl8yX3BYMXJsMXlUbG0wckU4UjJjSkItTzR5WkMyR0RpWXNCUW9JQklZSEUxRU0?oc=5)
+- [The Traditional Paths to Building Wealth Are -2- - Moomoo](https://news.google.com/rss/articles/CBMimAFBVV95cUxOLW0zU1M3MXVLN0NHd3A1SW5HY2ptM2RnOEY0aWpRdEZxRDgxeHFDV1ZCMUdBRlN2ZXJ0LWJJSVBhWXBSUHNwcmE4ZGVwV1psUkh2bVE0aFZGM1RsdTVlQ0daeFpxR1ROcGVReURrR2lmOU5fY3ZjWHRrZURfMHJMYU5ILVphT3N3R2tNVWxRLVpfVUdoR2lBQg?oc=5)
+- [Korean stocks meet DeFi as Lighter lists Samsung, SK Hynix and Hyundai perps - TradingView](https://news.google.com/rss/articles/CBMizAFBVV95cUxNU2RiSXpIWklRZmx6cTlaem9qZFY1WVc5UWxGcWs3Y3ktXzZ2Yk1SVXZLLVY5bFotckdWa2lVdXhWM3dNWEdKOEhFbWpzX1l3ck1qbUlNcGl0MzZ4U0hfdGVsNHgyTklCc19VeUI4NnNiaFZuRzRjTHZ6cDlfcG1mSzJvY1R6azUzSWUzbjVucm1xQy1aZFdzaG1aaW1TbXh2SllxNU9oaEJibzZwU1FHYjdObmNmVkpyZlpyR1VJV0tDT2xINFNwX3Q5c2I?oc=5)
+- [Amid economic downturn, Hong Kong is dubbed ‘a relic’ of an international financial center - Global Voices](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWDZQOTZYZHNERjktLTktUXB2UUhieVVpVTRSYng4cG9VUXRkREt3al9NbTlMR1R0QVR0eDVqTnowWmVuSGo2Mm4waFpjU1dhcHg5d2lLajRycUh2ZVlQMWZPTTVKSWxKVXo1T2Q3N3Q5ZW13MlhVcU5YYllGOHVtVTJvSGVLQ0hMZ0lPSUxjSlVMMUZHY3h3NEVEWW41Rmd2Wkp0alBjejBySngtVXFIRUFWcXF4XzlUWUQzLTNjTUVYUQ?oc=5)
+- [In-Depth: Stock Market Booster Has an Immediate Effect (AI Translation) - Caixin Global](https://news.google.com/rss/articles/CBMi-AFBVV95cUxQc2hUS1NKZ3JYRTkxOUM3dnUtYzFKNkNlSjZ3TVBpS29La25tN2dRNG15ZUdGdnBjOUtlOVV4SDJ5eFp5MllyT3ItcjZ2UXZIdjRUOUQ5endlV19pZkFsRUdLVEpScXFLUXdGUkdCOUV3bHdCam5UNFVReFFLNnYyOHZxZThPTE5RWndsclpkWFlqbW0wZURqZDFPVUR6N0liYUF0VHkwRGU0RTJUXzVPWVFnQWJMdmhBbFE4VFpkbFcwYkdMU2NuQjdQUXh4ckpSd1lIRjRsQ01KSldOOWx4dm4zTGppNHZUQm9aemhBMmdlbmdxaUNYLQ?oc=5)
+- ['Highly Contentious' Tesla Stock Drops Despite Cybercab Hope -- Barrons.com - Moomoo](https://news.google.com/rss/articles/CBMitwFBVV95cUxQWDR5aHBHanRPOFVRN2lwS0tvOG1xYlM0aTZlSGg4VGIzcE1sa1B5US0xcEc2UF9fLVd4ci1HdmtJVGFpdWJib2tUOFZPbDZ3UUlGTmRWNDZPVi1NaGxGX3RlZE44cDBmdHhBXzhxLVFFX3BiNGhUYzY0NUw4N3o0NkZFSDN5SzY3bnBLZF9sc1dSdm1zajFxT01oSEJaaXBoTkFRVTVlX2ZFM3hOeGhvc1U1a0VEc2M?oc=5)
 
 ## 能源与大宗商品
 
 ### 产业源1
 
+- [欧元：能源价格和日元资金流影响前景 – 荷兰合作银行 - tmgm.com](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVldwT2tGWTZUeUx4dHB1NmplSTIwb3hZOTVaZ0U1OS1nRm9ia2c4Z0xFQXZ4bi1abVpIN2tRRUN1RHJLZ1A1R2ZBRDN5TjFiOVRYUkNEQTl3akJhbnRYbG5PaDRhQUF2U043LVlIcU1CWF9LU0VlNTNNRkQ3NmJXYzR6OGU5NldCblVpamRZanlYUVFJTl9wWVZKekZPaHlhelRvR01KbE9xdzF4NUJOSHF6TUtQQXRvc1hBdDRoSk1CWmdCQTRTLXhfVDZXR3l5ZWVtcWZOQnota2dJYjZSd3N5SERGaGM5VjI4Sg?oc=5)
+- [尽管汽油需求增加，但油价仍在区间交投。 - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNelZNOXdZblpIc2R3UlhBaUc2d1lINlA1REZ4czhWb0tKVFU3bHdSbUpWR05pdW9IZG1Ec1JnT01KdkFFWEZ5ZHBPdFlDeWtQWjY0TVdFcXJISkZiaVY2MU8wZ0F5OUo0UHk3NzB6M0liTENZM1JobjN1N0NmRVJ5d0VYa0hpampiRk41WVpjb1V4NXAtMVFpZEQwM1ZLbGNRZUlJTzZlTDJXTWRVMFNhMWgxYWp0RUMzcnZmVExLaHk1NWR3ZkdnUElaM0JqSmVBdC10dFNaTDBjWk40ekd0cDB4bjF4TUtBdWRrWGV0cDFhQzB1emJYczNuN281N3lnX21mNGRmY2tZaU9YS25DYVR3UFFJWUlMRC1jMzJ2N0lVQXlBckYyVDNMcHdXN1hmUktDTU1ZdWJoSWpLR0xHTURyVU5DbElOV2d2M1lKbndKR2FUcmlTZFNR0gHfAkFVX3lxTE9aRno5NFFHZ3VySE9oUlNxYW5VWVp4TEctb2x5a3lqOXVhYUhGX3BlYXFZWjRTRWp0MzRUVUNCbHNUb1dDX0hhdHlCbUJ4QmRFQVloOElvdklUemxGMHR6TFhqR3puanAzYzkzeE5nOUZlUmdrYU5yT0RDOUVfVnFrdnNKQ1dlOVlyVHpOamRwSVl6Z2xKQ3FBR1VWM1MxQ0lNaFV6cEdLWEVCU2UyMnJpZEczU1FXODJpYmw3UUlPakFPMWNJa2hqMG5CUW43X291M2MtWDN3SDk5enZUamFpdmFIMlBDbEtGNFNIMFo2MDhjU3dHaWNvb1VtNUY1dHhzQlVRSnB5NENSYkUwX3c2azNsUVJTSDUwLXA4WjF0VmxIMDFQclV4V3VFSUdVenRzSnZ6LVBwU1VXX1RZS3c4R3JUc1lEVlZrY2NZMUtQa1FNRHhxRldMYnJoRlBNSQ?oc=5)
+- [美国：能源冲击预计将推高整体CPI – 德意志银行 - tmgm.com](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbkF1SkRodWpFUVRONXJIMWVGb2sxaUVFVjB6a0cyQ2pOYWhfNXZ4U2hUaXFsTEQzSHRoS1N2Y3pfSzNtcGhJaHBPdktwSjNmTXJ6cWswVlJtNG9adU1hLXE4RjNGdjQtWjRTZHNGVUNkRnpvdzJHdmFCeGZRSGFncTByUE52aGEwaVozTUUwVXZ3S3E2UEZ0RGJtNTExVHYxbUo0Y2FVbkd0cmhNV09Dd216VHBFTVZ1ZHJQUHpNaUkwUGI4YmVycGhxX2c4cFNVekFkeWxBVXRhZ1ZH?oc=5)
+- [China to cut gasoline and diesel prices by the biggest margin in nearly six years - KLSE Screener](https://news.google.com/rss/articles/CBMiywFBVV95cUxNWG1hN2ozdDhfVGZkUzVpT3QwMm1yT0NPZmZmeHlVQllMejVQSjlKR3dqM19GcEh0c0ZTNXNkU2RkNFE0emQtU0VrY19mWW9BdlBsNXV5THgyVFpCdFJaS1drMWM5RFBZSmxGUllla3otcTlPS21WYjhib092LWN4NkNmNnNRaEVveW96a3VXbExBWU9lN3BhTUFNaXd4alZ0eU9lSk0tN2dSa1J2eVhyMWlkZUpyeUJ3RHRmWFRwTWl6WEk1TEpkNjBOWQ?oc=5)
+- [石油：供应激增压制价格 – 星展银行 - www.tmgm.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxQM3F5MGQ1am9KMzRwdXJoVHIzcFY2dnBDSWY3NHpnbnhaM1ZpVTJoZXc0SmxMNlYyY0x1VVh0aHlQNnhsY2pxdE4xMkFlSFpSZDNfOXBBYW1Ud19oOHJqcHN4aTN5clFzZHNXbDVLS2hPRlZTWWUzblVqOVVQUWtGWW9SRnJNSG1qaWc0R1MzWmdwREJuY29DYnIta0Y0MUY0T3JQaXZrTXpFNHB1TnFGelhmcmF2Y1lqR3NoVkJzbjBFY0ttVWc?oc=5)
+- [Bursa bounces higher as corporate results trickle in - KLSE Screener](https://news.google.com/rss/articles/CBMipAFBVV95cUxQV1B2U3pCc3IyVndpV2dWVkg1MDNQUmxKdTR5YnRYX1Z2TWIySHBxUWZlU0RoVTFRNS11NXpzVVAyZENPbmo3ZHBhb0hES19UaEczWVc2amU4ZjdzQkNTY1dUQXJtb0djWFB1T3lkZkJNVlk2aDVoVlJkUFFCZEtfeE85bVZmYUs4U29Pd1d3QlZOdHdvSThvRnRsRzR6UUpJSndMSA?oc=5)
 
 ---
 *本日报由自动化脚本每日定时生成,数据来源为公开新闻 RSS。*
